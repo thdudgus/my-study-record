@@ -1,0 +1,5 @@
+- [[expected value]]
+- [[moment]]
+- [[central moment]]
+- [[variance]]
+- [[distribution]]

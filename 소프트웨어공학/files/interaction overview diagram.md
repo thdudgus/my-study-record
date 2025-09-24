@@ -1,0 +1,1 @@
+[[activity diagram]]과 [[sequence diagram]]의 결합.   

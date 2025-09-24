@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:무선이동통신  ",
+      "color": {
+        "a": 1,
+        "rgb": 16470096
+      }
+    },
+    {
+      "query": "path:\"리눅스 스터디/강의 필기\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 10243642
+      }
+    },
+    {
+      "query": "path:운영체제/필기  ",
+      "color": {
+        "a": 1,
+        "rgb": 16773197
+      }
+    },
+    {
+      "query": "path:컴파일러/필기  ",
+      "color": {
+        "a": 1,
+        "rgb": 6004040
+      }
+    },
+    {
+      "query": "path:소프트웨어공학/필기  ",
+      "color": {
+        "a": 1,
+        "rgb": 65505
+      }
+    },
+    {
+      "query": "path:Flutter ",
+      "color": {
+        "a": 1,
+        "rgb": 40447
+      }
+    },
+    {
+      "query": "path:알고리즘/필기  ",
+      "color": {
+        "a": 1,
+        "rgb": 20689
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.14635416666667,
+  "lineSizeMultiplier": 1.97352941176471,
+  "collapse-forces": false,
+  "centerStrength": 0.332746717205902,
+  "repelStrength": 10.9002301340192,
+  "linkStrength": 0.900230134019223,
+  "linkDistance": 199,
+  "scale": 2.084872945594953,
+  "close": false
+}

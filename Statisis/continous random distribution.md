@@ -1,0 +1,3 @@
+- [[Normal(=Gaussian)]]
+- [[Uniform]]
+- [[Exponential]]

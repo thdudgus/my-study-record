@@ -1,0 +1,1 @@
+단순히 processor가 interrupt 요구 신호를 무시한다는 의미.

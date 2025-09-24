@@ -1,0 +1,1 @@
+develop할 시스템과 상호 작용하는 다른 시스템 또는 user에 의해 play되는 role.

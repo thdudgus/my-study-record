@@ -1,0 +1,2 @@
+- unsupervised setting(대부분)에서 입력 차원을 줄여줌.
+- Curse of dimensionality의 보완.

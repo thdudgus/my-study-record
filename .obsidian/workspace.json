@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "e101cf4204d82b2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9a4dea8ee3fb915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67c69ab92fcdd316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "머신러닝 프로젝트/Prj 1. Titanic - Kaggle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prj 1. Titanic - Kaggle"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "137871fafe5a496c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec8eec07c39acb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a187b553e150033",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "742bd2fb5389721c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "인증",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e08b68bb0d04b332",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.5
+  },
+  "right": {
+    "id": "ef0005968c6b2660",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f3a65bb41461171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a6d0f03d3637ea1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "머신러닝 프로젝트/Prj 1. Titanic - Kaggle.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Prj 1. Titanic - Kaggle"
+            }
+          },
+          {
+            "id": "f13a43ec580cf0c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1장. 기본 개념.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "1장. 기본 개념의 나가는 링크"
+            }
+          },
+          {
+            "id": "c4d772fd43d3bc9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aaa3235f009cc5d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1장. 기본 개념.md"
+              },
+              "icon": "lucide-list",
+              "title": "1장. 기본 개념 개요"
+            }
+          },
+          {
+            "id": "01664319edf6c6a2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "67c69ab92fcdd316",
+  "lastOpenFiles": [
+    "머신러닝 프로젝트",
+    "알고리즘/필기/12. Approximation Algorithms.md",
+    "알고리즘/필기/13. Summary.md",
+    "알고리즘/필기/11. Problem Classification.md",
+    "알고리즘/필기/10. NP Theory.md",
+    "알고리즘/필기/9. Finding the lower bound.md",
+    "알고리즘/필기/8. Branch and Bound.md",
+    "알고리즘/필기/5. Greedy Algorithm.md",
+    "알고리즘/필기/3. Dynamic Programming.md",
+    "알고리즘/필기/2. Divide and Conquer.md",
+    "알고리즘/필기/1. Algorithms ; Efficiency, Analysis, and Order.md",
+    "머신러닝 프로젝트/Prj 1. Titanic - Kaggle.md",
+    "스프링부트/3.3 스프링부트 요청-응답 과정 요약.md",
+    "컴퓨터구조",
+    "스프링부트/3.2 build.gradle에 의존성 추가.md",
+    "스프링부트/3. 계층.md",
+    "스프링부트/files/퍼시스턴트 계층.md",
+    "스프링부트/files/비즈니스 계층.md",
+    "스프링부트/files/프레젠테이션 계층.md",
+    "스프링부트/2. 관련 annotation.md",
+    "스프링부트/1. 스프링.md",
+    "오토마타와 형식언어/Ch1. Introduction to the Theory of Computation.md",
+    "오토마타와 형식언어",
+    "컴퓨터통신/1장. 기본 개념.md",
+    "스프링부트/8. Spring Security.md",
+    "Java/자바 간단 정리.md",
+    "소프트웨어공학/필기/9. GRASP.md",
+    "소프트웨어공학/필기/7. MVC Architecture Pattern.md",
+    "Java/media/스크린샷 2025-05-15 오전 2.07.37.png",
+    "Java/media/스크린샷 2025-05-14 오후 11.09.31.png",
+    "Untitled.canvas",
+    "Java/media",
+    "Untitled 1.canvas",
+    "Java/media/스크린샷 2025-05-15 오전 3.06.22.png",
+    "Java/media/스크린샷 2025-05-15 오전 3.06.03.png",
+    "Java/media/스크린샷 2025-05-15 오전 3.04.31.png",
+    "Java/media/스크린샷 2025-05-15 오전 3.04.16.png",
+    "Java/media/스크린샷 2025-05-15 오전 3.03.40.png",
+    "Java/media/스크린샷 2025-05-15 오전 3.03.10.png",
+    "Java/media/스크린샷 2025-05-15 오전 2.57.24.png",
+    "Java/media/스크린샷 2025-05-15 오전 2.47.39.png",
+    "Java",
+    "1. Algorithms ; Efficiency, Analysis, and Order.pdf",
+    "13. Summary.pdf",
+    "12. Approximation Algorithms.pdf",
+    "11. Problem Classification.pdf",
+    "10. NP Theory.pdf",
+    "9. Finding the lower bound.pdf",
+    "무제 파일.canvas"
+  ]
+}

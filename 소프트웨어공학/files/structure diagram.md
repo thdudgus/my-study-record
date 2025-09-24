@@ -1,0 +1,6 @@
+- [[class diagram]]
+- component diagram	
+- composite diagram
+- deployment diagram
+- [[object diagram]] (instance diagram)
+- package diagram

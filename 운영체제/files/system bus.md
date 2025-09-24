@@ -1,0 +1,1 @@
+[[processor]], [[main memory]], 그리고[[I.O module]] 간의 통신을 제공한다.   

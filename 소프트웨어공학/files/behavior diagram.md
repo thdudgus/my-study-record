@@ -1,0 +1,3 @@
+- [[activity diagram]]
+- [[state diagram]]
+- [[use case diagram]]

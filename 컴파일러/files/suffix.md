@@ -1,0 +1,1 @@
+오른쪽 끝 substring
