@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c9a4dea8ee3fb915",
+        "id": "131fcf57d6a186b2",
         "type": "tabs",
         "children": [
           {
-            "id": "67c69ab92fcdd316",
+            "id": "30f414a3e8532290",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 220.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef0005968c6b2660",
@@ -161,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 287.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +178,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67c69ab92fcdd316",
+  "active": "30f414a3e8532290",
   "lastOpenFiles": [
+    "머신러닝 프로젝트/Step3.md",
+    "머신러닝 프로젝트/Prj 1. Titanic - Kaggle.md",
+    "머신러닝 프로젝트/Step4.md",
+    "Step6.md",
+    "Step5.md",
+    "머신러닝 프로젝트/Step2.md",
+    "머신러닝 프로젝트/Step1.md",
+    "머신러닝 프로젝트/media/Pasted image 20250924172736.png",
+    "머신러닝 프로젝트/media",
+    "머신러닝 프로젝트/media/Pasted image 20250924174342.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924174528.png",
+    "Untitled.base",
+    "Untitled 1.base",
+    "Untitled 3.base",
+    "Untitled 2.base",
+    "머신러닝 프로젝트/media/Pasted image 20250924174548.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924174510.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924174023.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924173518.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924173417.png",
+    "머신러닝 프로젝트/media/Pasted image 20250924173306.png",
     "머신러닝 프로젝트",
     "알고리즘/필기/12. Approximation Algorithms.md",
     "알고리즘/필기/13. Summary.md",
@@ -189,7 +212,6 @@
     "알고리즘/필기/3. Dynamic Programming.md",
     "알고리즘/필기/2. Divide and Conquer.md",
     "알고리즘/필기/1. Algorithms ; Efficiency, Analysis, and Order.md",
-    "머신러닝 프로젝트/Prj 1. Titanic - Kaggle.md",
     "스프링부트/3.3 스프링부트 요청-응답 과정 요약.md",
     "컴퓨터구조",
     "스프링부트/3.2 build.gradle에 의존성 추가.md",
@@ -201,31 +223,11 @@
     "스프링부트/1. 스프링.md",
     "오토마타와 형식언어/Ch1. Introduction to the Theory of Computation.md",
     "오토마타와 형식언어",
-    "컴퓨터통신/1장. 기본 개념.md",
-    "스프링부트/8. Spring Security.md",
-    "Java/자바 간단 정리.md",
-    "소프트웨어공학/필기/9. GRASP.md",
-    "소프트웨어공학/필기/7. MVC Architecture Pattern.md",
     "Java/media/스크린샷 2025-05-15 오전 2.07.37.png",
-    "Java/media/스크린샷 2025-05-14 오후 11.09.31.png",
     "Untitled.canvas",
     "Java/media",
     "Untitled 1.canvas",
-    "Java/media/스크린샷 2025-05-15 오전 3.06.22.png",
-    "Java/media/스크린샷 2025-05-15 오전 3.06.03.png",
-    "Java/media/스크린샷 2025-05-15 오전 3.04.31.png",
-    "Java/media/스크린샷 2025-05-15 오전 3.04.16.png",
-    "Java/media/스크린샷 2025-05-15 오전 3.03.40.png",
-    "Java/media/스크린샷 2025-05-15 오전 3.03.10.png",
-    "Java/media/스크린샷 2025-05-15 오전 2.57.24.png",
-    "Java/media/스크린샷 2025-05-15 오전 2.47.39.png",
     "Java",
-    "1. Algorithms ; Efficiency, Analysis, and Order.pdf",
-    "13. Summary.pdf",
-    "12. Approximation Algorithms.pdf",
-    "11. Problem Classification.pdf",
-    "10. NP Theory.pdf",
-    "9. Finding the lower bound.pdf",
     "무제 파일.canvas"
   ]
 }
